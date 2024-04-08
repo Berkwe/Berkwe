@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba ben berke,</h1>
-<h3 align="center">Türkiyede yaşayan minik bir developer'ım</h3>
+<h3 align="center">Türkiyede yaşayan minik bir geliştiriciyim</h3>
 
  <p align="center"> 
 Profili Gezen Kişi Sayısı<br>
@@ -8,7 +8,7 @@ Profili Gezen Kişi Sayısı<br>
 </p>
 
 <br clear="left"/> 
-- Şu anda **Javascript, HMTL ve CSS öğreniyorum.**
+- Şu anda Javascript, HMTL ve CSS öğreniyorum.
 
 <img width="30%" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&cover_image=true&theme=default&show_offline=true&background_color=19022c&interchange=false&bar_color_cover=true"/>
 
