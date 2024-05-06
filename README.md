@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba ben berke,</h1>
-<h3 align="center">Türkiyede yaşayan minik bir geliştiriciyim</h3>
+<h3 align="center">Türkiyede yaşayan bir geliştiriciyim</h3>
 
  <p align="center"> 
 Profili Gezen Kişi Sayısı<br>
