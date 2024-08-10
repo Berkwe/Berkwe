@@ -8,7 +8,7 @@ Profili Gezen Kişi Sayısı<br>
 </p>
 
 <br clear="left"/> 
-- Şu anda Arduino, Robotik  kodlama öğreniyorum.
+- 
 
 <img width="30%" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=11088c&bar_color_cover=true"/>
 
