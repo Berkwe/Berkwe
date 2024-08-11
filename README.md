@@ -7,12 +7,13 @@ Profili Gezen Kişi Sayısı<br>
  <img src="https://profile-counter.glitch.me/berkwe/count.svg" />
 </p>
 
-<br clear="left"/> 
+<br clear=""/> 
 - 
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3146ldh2qubli3wjbmgj7atv6hwu&redirect=true"><img width="30%" align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3146ldh2qubli3wjbmgj7atv6hwu&cover_image=true&theme=default&show_offline=true&background_color=1a1111&interchange=true&bar_color=53b14f&bar_color_cover=true"/></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3146ldh2qubli3wjbmgj7atv6hwu&redirect=true"><img width="50%" align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3146ldh2qubli3wjbmgj7atv6hwu&cover_image=true&theme=default&show_offline=true&background_color=1a1111&interchange=true&bar_color=53b14f&bar_color_cover=true"/></a>
 
-<br clear="left"/> 
+
+<br clear="right"/> 
 
 <h3 align="left">Bana ulaşmak için :</h3>
 <p align="left">
