@@ -10,7 +10,7 @@ Profili Gezen Kişi Sayısı<br>
 <br clear=""/> 
 - 
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3146ldh2qubli3wjbmgj7atv6hwu&redirect=true"><hidden img width="30%"  align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ufmp6f3z4edc3tppslg4jlp67a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3146ldh2qubli3wjbmgj7atv6hwu&redirect=true"><img width="30%"  align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nt7dy36hujvcatkvhqty7l2wke&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true"/></a>
 
 
 <br clear="right"/> 
