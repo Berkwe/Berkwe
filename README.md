@@ -4,7 +4,8 @@
  <p align="center"> 
 Profili Gezen Kişi Sayısı<br>
   
- <img src="https://profile-counter.glitch.me/berkwe/count.svg" />
+ <img src="https://profile-counter.deno.dev/berkwe/count.svg"/>
+
 </p>
 
 <br clear=""/> 
