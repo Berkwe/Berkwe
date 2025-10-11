@@ -9,7 +9,7 @@ Profili Gezen Kişi Sayısı<br>
 </p>
 
 <br clear=""/> 
-- 
+<li><bold>Şu an webtoon-translator, <a href=https://github.com/Berkwe/RoboRave>roboRave</a>, <a href=https://github.com/Berkwe/Valorant-instalocker>Instalocker</a> ve <a href=https://github.com/Berkwe/instalocker-with-gui>Instalocker-with-gui</a> projeleri üzerinde çalışıyorum.</bold>
 
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&redirect=true"><img width="%30" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/></a>
