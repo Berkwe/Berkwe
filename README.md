@@ -20,7 +20,9 @@ Profili Gezen Kişi Sayısı<br>
 <h3 align="left">Bana ulaşmak için :</h3>
 <p align="left">
 <a href="https://discord.com/users/461206901040873483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F7qaRp22bW" height="30" width="40" /></a>
+ <a href="mailto:berkwe64@proton.me" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" height="30" width="40" /><a>
 </p>
+
 
 
 
