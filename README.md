@@ -2,9 +2,9 @@
 <h3 align="center">Türkiyede yaşayan bir geliştiriciyim</h3>
 
  <p align="center"> 
-Profili Gezen Kişi Sayısı<br>
+<!--Profili Gezen Kişi Sayısı<br>-->
   
- <img src="https://profile-counter.deno.dev/berkwe/count.svg"/>
+ <!--<img src="https://profile-counter.deno.dev/berkwe/count.svg"/> -->
 
 </p>
 
