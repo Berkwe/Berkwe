@@ -100,4 +100,10 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
+ <a href="https://ghidralite.com" target="_blank" rel="noreferrer">
+    <img src="https://ghidralite.com/wp-content/uploads/2024/08/ghidra-removebg-preview-150x150.png" alt="ghidra" width="40" height="40"/>
+  </a>
+ <a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" alt="jadx" width="40" height="40"/>
+  </a>
 </p>
