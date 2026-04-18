@@ -1,6 +1,8 @@
 <h1 align="center">Merhaba ben berke,</h1>
 <h3 align="center">Türkiyede yaşayan bir geliştiriciyim</h3>
+<div align="center">
 
+</div>
  <p align="center"> 
 <!--Profili Gezen Kişi Sayısı<br>-->
   
@@ -8,102 +10,56 @@
 
 </p>
 
+
 <br clear=""/> 
 <li><bold>Şu an Android Uygulamaları yapmak için Kotlin öğreniyorum.</bold>
+<h1></h1>
 
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&redirect=true"><img width="%30" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/></a>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berkwe&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkwe&layout=compact&theme=tokyonight&hide_border=true" height="170"> </div>
 
-
-<br clear="right"/> 
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkwe&theme=tokyonight&hide_border=true"> </div>
+<h1> </h1>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></td>
+      <td align="center"><img src="https://www.kali.org/images/kali-everywhere-mobile.svg" width="40"></td>
+      <td align="center"><img src="https://nmap.org/images/sitelogo-2x.png" width="40"></td>
+      <td align="center"><img src="https://portswigger.net/content/images/logos/favicon.ico" width="40"></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"></td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"></td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"></td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></td>
+      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"></td>
+      <td align="center"><img src="https://ghidralite.com/wp-content/uploads/2024/08/ghidra-removebg-preview-150x150.png" width="40"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="40"></td>
+    </tr>
+  </table>
+</div>
+<h1> </h1>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&redirect=true" align="right"><img width="230dp" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/></a> 
+<br clear="left"/> 
 <h3 align="left">Bana ulaşmak için :</h3>
-<p align="left">
-<a href="https://discord.com/users/461206901040873483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F7qaRp22bW" height="30" width="40" /></a>
- <a href="mailto:berkwe64@proton.me" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" height="30" width="40" /><a>
-</p>
 
-
-
-
-
-<h3 align="left">🛠️ Diller ve Araçlar</h3>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <!-- Web Teknolojileri + Siber Güvenlik -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.kali.org/get-kali/#kali-mobile"> 
-    <img src="https://www.kali.org/images/kali-everywhere-mobile.svg" width=40 height=40> 
-  </a>
-  <a href="https://nmap.org" target="_blank" rel="noreferrer">
-    <img src="https://nmap.org/images/sitelogo-2x.png" alt="nmap" width="40" height="40"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://portswigger.net/content/images/logos/favicon.ico" alt="burp" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
- <a href="https://ghidralite.com" target="_blank" rel="noreferrer">
-    <img src="https://ghidralite.com/wp-content/uploads/2024/08/ghidra-removebg-preview-150x150.png" alt="ghidra" width="40" height="40"/>
-  </a>
- <a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" alt="jadx" width="40" height="40"/>
-  </a>
-</p>
+<table>
+ <td>
+  <a href="https://discord.com/users/461206901040873483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F7qaRp22bW" height="30" width="40" /></a>
+ </td>
+ <td>
+   <a href="mailto:berkwe64@proton.me" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" height="30" width="40" /><a>
+ </td>
+ </table>
