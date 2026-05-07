@@ -15,11 +15,11 @@
 <li><bold>Şu an Android Uygulamaları yapmak için Kotlin öğreniyorum.</bold>
 <h1></h1>
 
-
+<!--
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berkwe&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkwe&layout=compact&theme=tokyonight&hide_border=true" height="170"> </div>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkwe&theme=tokyonight&hide_border=true"> </div>
-<h1> </h1>
+<h1> </h1>-->
 <div align="center">
   <table>
     <tr>
