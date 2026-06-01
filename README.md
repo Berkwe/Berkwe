@@ -12,7 +12,7 @@
 
 
 <br clear=""/> 
-<li><bold>Şu an Android Uygulamaları yapmak için Kotlin öğreniyorum.</bold>
+<li><bold>Şu an Webtoon Translator projem üzerinde çalışıyorum.</bold>
 <h1></h1>
 
 <!--
