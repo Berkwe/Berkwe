@@ -4,9 +4,9 @@
 
 </div>
  <p align="center"> 
-<!--Profili Gezen Kişi Sayısı<br>-->
+Profili Gezen Kişi Sayısı<br>
   
- <!--<img src="https://profile-counter.deno.dev/berkwe/count.svg"/> -->
+<img src="https://profile-counter.deno.dev/berkwe/count.svg"/>
 
 </p>
 
@@ -14,12 +14,10 @@
 <br clear=""/> 
 <li><bold>Şu an Webtoon Translator projem üzerinde çalışıyorum.</bold>
 <h1></h1>
-
-<!--
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berkwe&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkwe&layout=compact&theme=tokyonight&hide_border=true" height="170"> </div>
--->
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkwe&theme=tokyonight&hide_border=true"> </div>
-<h1> </h1>
+ <h3>
+ Diller ve Araçlar :
+  
+ </h3>
 <div align="center">
   <table>
     <tr>
@@ -44,13 +42,22 @@
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></td>
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png?_=20200616073617" width="40"></td>
       <td align="center"><img src="https://ghidralite.com/wp-content/uploads/2024/08/ghidra-removebg-preview-150x150.png" width="40"></td>
       <td align="center"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="40"></td>
     </tr>
   </table>
 </div>
 <h1> </h1>
+
+<!--
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berkwe&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkwe&layout=compact&theme=tokyonight&hide_border=true" height="170"> </div>
+-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=berkwe&theme=tokyo-night">
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkwe&theme=tokyonight&hide_border=true"> </div>
+
+<h1> </h1>
+
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&redirect=true" align="right"><img width="230dp" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mwozjg75zk33ucdcl7oikum5nu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/></a> 
 <br clear="left"/> 
 <h3 align="left">Bana ulaşmak için :</h3>
