@@ -4,15 +4,17 @@
 
 </div>
  <p align="center"> 
-Profili Gezen Kişi Sayısı<br>
+  
+<!--Profili Gezen Kişi Sayısı<br>
   
 <img src="https://profile-counter.deno.dev/berkwe/count.svg"/>
+-->
 
 </p>
 
 
 <br clear=""/> 
-<li><bold>Şu an Webtoon Translator projem üzerinde çalışıyorum.</bold>
+<li><bold>*</bold>
 <h1></h1>
  <h3>
  Diller ve Araçlar :
